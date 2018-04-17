@@ -1,10 +1,16 @@
-# sails-hook-orm-offshore 
+# sails-hook-orm-offshore
+
+[![npm version](https://badge.fury.io/js/sails-hook-orm-offshore.svg)](https://www.npmjs.com/sails-hook-orm-offshore)
+[![Build Status](https://travis-ci.org/Atlantis-Software/sails-hook-orm-offshore.svg?branch=master)](https://travis-ci.org/Atlantis-Software/sails-hook-orm-offshore)
+[![Coverage Status](https://coveralls.io/repos/github/Atlantis-Software/sails-hook-orm-offshore/badge.svg?branch=master)](https://coveralls.io/github/Atlantis-Software/sails-hook-orm-offshore?branch=master)
+[![NSP Status](https://nodesecurity.io/orgs/atlantis/projects/5ec8481e-08b5-44ad-8f2c-fdea01ba58a6/badge)](https://nodesecurity.io/orgs/atlantis/projects/5ec8481e-08b5-44ad-8f2c-fdea01ba58a6)
+[![Dependencies Status](https://david-dm.org/Atlantis-Software/sails-hook-orm-offshore.svg)](https://david-dm.org/Atlantis-Software/sails-hook-orm-offshore)
 
 Implements support for Offshore ORM in Sails.
 
 > You can override or disable it using your sailsrc file or environment variables.  See http://sailsjs.org/documentation/concepts/configuration for more information.
 
-#Install
+## Install
 
 Install this hook with:
 
@@ -12,7 +18,7 @@ Install this hook with:
 $ npm install sails-hook-orm-offshore --save
 ```
 
-# Configuration
+## Configuration
 
 `.sailsrc`
 ````
