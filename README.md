@@ -21,7 +21,8 @@ $ npm install sails-hook-orm-offshore --save
 ## Configuration
 
 `.sailsrc`
-````
+
+```
 {
   "hooks": {
     "orm": false,
