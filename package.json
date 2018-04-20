@@ -10,7 +10,7 @@
   ],
   "main": "index.js",
   "scripts": {
-    "test": "nyc mocha --timeout=1500 --exit",
+    "test": "nyc mocha --timeout=5000 --exit",
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "lint": "eslint ./"
   },
