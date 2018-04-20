@@ -23,3 +23,5 @@ test/
 .gitignore
 nbproject
 node_modules
+.nyc_output/
+package-lock.json
